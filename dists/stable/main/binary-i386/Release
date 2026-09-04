@@ -1,0 +1,7 @@
+Archive: stable
+Version: 1.0
+Component: main
+Origin: somasave
+Label: somasave apt repository
+Architecture: i386
+Description: somasave-client releases

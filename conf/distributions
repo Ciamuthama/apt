@@ -1,0 +1,8 @@
+Origin: somasave
+Label: somasave apt repository
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 i386 source
+Components: main
+Description: somasave-client releases
