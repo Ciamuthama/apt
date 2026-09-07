@@ -1,8 +1,7 @@
-Origin: somasave
-Label: somasave apt repository
-Suite: stable
+Origin: Jumbostar Solutions
+Label: Jumbostar
 Codename: stable
-Version: 1.0
 Architectures: amd64 i386 source
 Components: main
-Description: somasave-client releases
+Description: Jumbostar Solutions APT Repository
+SignWith: D122FBBBDA8F1760
