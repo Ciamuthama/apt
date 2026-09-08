@@ -1,36 +1,36 @@
 Origin: Jumbostar Solutions
 Label: Jumbostar
 Codename: stable
-Date: Mon, 07 Sep 2026 13:24:59 UTC
+Date: Tue, 08 Sep 2026 10:30:35 UTC
 Architectures: amd64 i386
 Components: main
 Description: Jumbostar Solutions APT Repository
 MD5Sum:
- b1127c475e50fdaecf0de056f21a1ab7 781 main/binary-amd64/Packages
- c706151dfdac214d6de55d3d15c8b358 506 main/binary-amd64/Packages.gz
+ 9d02dfadc84ef0ce2de4f4f76beb0826 781 main/binary-amd64/Packages
+ 281b533ee5cd6de065ec1c8fd7015864 508 main/binary-amd64/Packages.gz
  c9fca34707649dc2315dea81b613bc6a 151 main/binary-amd64/Release
- b1127c475e50fdaecf0de056f21a1ab7 781 main/binary-i386/Packages
- c706151dfdac214d6de55d3d15c8b358 506 main/binary-i386/Packages.gz
+ 9d02dfadc84ef0ce2de4f4f76beb0826 781 main/binary-i386/Packages
+ 281b533ee5cd6de065ec1c8fd7015864 508 main/binary-i386/Packages.gz
  02684c16bf61320fd611f3e6ef5a59d6 150 main/binary-i386/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  4c1d422c13bae53b6531efaa6cefe428 152 main/source/Release
 SHA1:
- 96a3b81bed7a35193cc10e7a36dffcc8ec14d983 781 main/binary-amd64/Packages
- 9b91d753250ccb6cc002c228e667bbec59adaae2 506 main/binary-amd64/Packages.gz
+ 37ab2bf40edf02a6a1437dc30e489039a3cc9ad1 781 main/binary-amd64/Packages
+ e2611d0035f846fe69da877050c8f7a53e601fe5 508 main/binary-amd64/Packages.gz
  54b4b0a9e2d50741d41162fc36eb93bba7433774 151 main/binary-amd64/Release
- 96a3b81bed7a35193cc10e7a36dffcc8ec14d983 781 main/binary-i386/Packages
- 9b91d753250ccb6cc002c228e667bbec59adaae2 506 main/binary-i386/Packages.gz
+ 37ab2bf40edf02a6a1437dc30e489039a3cc9ad1 781 main/binary-i386/Packages
+ e2611d0035f846fe69da877050c8f7a53e601fe5 508 main/binary-i386/Packages.gz
  39875bf01aeea692c35ea07eabb8b3b99ca5c67e 150 main/binary-i386/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  4876791fdac1fc61de86333f879034117276e2cd 152 main/source/Release
 SHA256:
- d0afc23cc38f5d29a4cca4d1f39a8feddd0b5050d79c21f23af5ef6cbe982f5b 781 main/binary-amd64/Packages
- f33dc25827785e4dce7514d9f358f7d83a2ef83a64040949430b8214db582b68 506 main/binary-amd64/Packages.gz
+ 1911027963f1faf5f9086fb1c96a8f15092e5a28a09d86ab3a405765cfa97566 781 main/binary-amd64/Packages
+ af98b33acdc18c407e991b90286c7e23eb05b56edbcb46ad5ae006fa869610fb 508 main/binary-amd64/Packages.gz
  556e824c1c638c18119bcdef466d038ea5a6fe4109dfc5f3bd282fbd3a2100ad 151 main/binary-amd64/Release
- d0afc23cc38f5d29a4cca4d1f39a8feddd0b5050d79c21f23af5ef6cbe982f5b 781 main/binary-i386/Packages
- f33dc25827785e4dce7514d9f358f7d83a2ef83a64040949430b8214db582b68 506 main/binary-i386/Packages.gz
+ 1911027963f1faf5f9086fb1c96a8f15092e5a28a09d86ab3a405765cfa97566 781 main/binary-i386/Packages
+ af98b33acdc18c407e991b90286c7e23eb05b56edbcb46ad5ae006fa869610fb 508 main/binary-i386/Packages.gz
  7cbf7d40fae21e19c0a5a2e0d77ae9c9dc26d3662a44d5c1641e6281327782c9 150 main/binary-i386/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
